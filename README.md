@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imuttam
-- 👀 I’m interested in web developing.
-- 🌱 I’m currently learning the same.
+- 👀 Programming with Python. 
+- 🌱 Flask and Django Programming.
 
 
 <!---
