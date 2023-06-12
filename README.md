@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imuttam
+
 - 👀 Programming with Python. 
 - 🌱 Flask and Django Programming.
 
