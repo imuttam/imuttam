@@ -1,6 +1,8 @@
-
+- 👀Dedicated learner passionate teacher.
 - 👀 Programming with Python. 
-- 🌱 Flask and Django Programming.
+- 🌱 web developement with django.
+- 🌱app development with flask
+- 🌱sqlite and postgres sql using python.
 
 
 <!---
